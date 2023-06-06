@@ -1,0 +1,42 @@
+/* 01-color-switcher.css */
+
+body {
+  background-color: #f8f8f8;
+  font-family: Arial, sans-serif;
+}
+
+.container {
+  max-width: 400px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+h1 {
+  text-align: center;
+}
+
+.datetime-picker {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+
+.timer {
+  display: flex;
+  justify-content: center;
+}
+
+.field {
+  text-align: center;
+  margin: 0 10px;
+}
+
+.value {
+  font-size: 36px;
+  font-weight: bold;
+}
+
+.label {
+  font-size: 14px;
+  text-transform: uppercase;
+}
